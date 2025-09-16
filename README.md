@@ -1,1 +1,1 @@
-This file serves as a project
+This file serves as a project for software engineering
